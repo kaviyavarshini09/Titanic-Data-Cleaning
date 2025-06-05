@@ -13,6 +13,7 @@ Prepare the Titanic dataset for Machine Learning models by:
 - task1.ipynb: Python code for all preprocessing steps
 - titanic.csv: The dataset used
 - Screenshots: Visual proof of work
+
 ✅ Steps Completed:
 1. Imported and explored dataset
 2. Handled missing values in Age and Embarked
